@@ -10,6 +10,21 @@ ProjetManagement est une application web de gestion des projets.
 - [Licence](#licence)
 
 ## Installation
+
+1. Clonez le repository :
+   ```bash
+   git clone https://github.com/utilisateur/projet.git
+   cd projet
+
+2. Si vous utilisez WAMP ou XAMPP :
+
+* Placez le projet dans le dossier www (WAMP) ou htdocs (XAMPP).
+
+* Démarrez Apache et MySQL depuis l'interface de WAMP/XAMPP.
+
+* Accédez au projet via http://localhost/projet.
+
+
 ## Utilisation
 ## Contributions
 ## Licence
