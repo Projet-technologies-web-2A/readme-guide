@@ -51,8 +51,42 @@ Pour utiliser ce projet, vous devez installer PHP. Voici les étapes :
    ```bash
    php -v
 
+
 ## Contributions
+
+Nous remercions tous ceux qui ont contribué à ce projet !
+
+### Contributeurs
+
+Les personnes suivantes ont contribué à ce projet en ajoutant des fonctionnalités, en corrigeant des bugs ou en améliorant la documentation :
+
+- [Utilisateur1](https://github.com/utilisateur1) - Correction de bugs et amélioration des performances etc ...
+- [Utilisateur2](https://github.com/utilisateur2) - Ajout de la fonctionnalité X etc ...
+- [Utilisateur3](https://github.com/utilisateur3) - Rédaction de la documentation etc ...
+
+Si vous souhaitez contribuer, suivez les étapes ci-dessous pour faire un **fork**, créer une nouvelle branche et soumettre une **pull request**.
+
+### Comment contribuer ?
+
+1. **Fork le projet** : Allez sur la page GitHub du projet et cliquez sur le bouton **Fork** dans le coin supérieur droit pour créer une copie du projet dans votre propre compte GitHub.
+   
+2. **Clonez votre fork** : Clonez le fork sur votre machine locale :
+   ```bash
+   git clone https://github.com/votre-utilisateur/projet.git
+   cd projet
+
 ## Licence
+
+
+### Exemple pour **Licence** :
+```markdown
+## Licence
+
+Ce projet est sous la licence **XXX**. Pour plus de détails, consultez le fichier [LICENSE](./LICENSE).
+
+### Détails sur la licence MIT
+
+La licence XXX est une licence de logiciel ...
 
 
 
